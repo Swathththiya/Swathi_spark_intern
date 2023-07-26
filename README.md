@@ -5,3 +5,4 @@
 22/07 today i have learned about how to create a logo and how to use the contrast colour to attract the people or ordinance. today i drawn the logo, i think its not bad to me. yeah im really excited about this course.
 24/07 today i have learned about how to create a login page, sign up page and the home page with the help of some app clone. and learned about how to create a colourfull logo to attract the ordinance. maybe today i tried to given my best to creating a pages, i want to develop it more
 25/07 today i have learned about how to sign in figma application with the given id and password and we were seen about how to create frame, object and how to use pen and selection option .
+26/07 Today i have drawn my own logo and i learned about how to draw the logo in pc and how to use tools and i learned how to colour it . And how to add different styles of text to add on with my logo and also i have learned about how to design login page. 
