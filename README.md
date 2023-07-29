@@ -6,3 +6,4 @@
 24/07 today i have learned about how to create a login page, sign up page and the home page with the help of some app clone. and learned about how to create a colourfull logo to attract the ordinance. maybe today i tried to given my best to creating a pages, i want to develop it more
 25/07 today i have learned about how to sign in figma application with the given id and password and we were seen about how to create frame, object and how to use pen and selection option .
 26/07 Today i have drawn my own logo and i learned about how to draw the logo in pc and how to use tools and i learned how to colour it . And how to add different styles of text to add on with my logo and also i have learned about how to design login page. 
+28/7 today we saw about plugins- from where we can select objects. and then we sketch few pages of whatsapp.and how to create a logo page .
